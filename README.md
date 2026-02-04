@@ -47,7 +47,3 @@ The application will open in your default web browser.
 
 - `vision.py`: The main application script containing the UI and logic.
 - `.env`: Stores sensitive environment variables (API Key).
-
-## 📄 License
-
-This project is open-source and available for personal and educational use.
